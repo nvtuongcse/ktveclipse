@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/controler"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white">
+
+    <vn.com.sonca.newUI.modal.view.controler.Volume
+        android:id="@+id/melody"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:max_value="10"
+        app:min_value="0"
+        app:title="Melody" />
+
+    <vn.com.sonca.newUI.modal.view.controler.Volume
+        android:id="@+id/tempo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:max_value="4"
+        app:min_value="-4"
+        app:title="Tempo" />
+
+    <vn.com.sonca.newUI.modal.view.controler.Volume
+        android:id="@+id/key"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:max_value="6"
+        app:min_value="-6"
+        app:title="Key" />
+
+    <vn.com.sonca.newUI.modal.view.controler.Volume
+        android:id="@+id/volume"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:max_value="16"
+        app:min_value="0"
+        app:title="Âm lượng" />
+
+
+</LinearLayout>

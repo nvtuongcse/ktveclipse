@@ -1,0 +1,697 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:splitMotionEvents="false" >
+
+    <vn.com.sonca.Touch.CustomView.TouchMyDrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:splitMotionEvents="false" >
+
+        <RelativeLayout
+            android:id="@+id/backgroundlayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg"
+            android:splitMotionEvents="false" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:baselineAligned="false"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.36"
+                    android:orientation="vertical"
+                    android:splitMotionEvents="false">
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.9">
+
+                        <LinearLayout
+                            android:id="@+id/layoutOtherDance"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:baselineAligned="false"
+                            android:orientation="vertical"
+                            android:splitMotionEvents="false"
+                            android:visibility="visible"
+                            android:weightSum="1">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.21"
+                                android:orientation="horizontal"
+                                android:weightSum="1">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="0.08"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginTop="2dp"
+                                        android:layout_weight="0.88"
+                                        android:gravity="center"
+                                        android:orientation="horizontal"
+                                        android:splitMotionEvents="false">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:splitMotionEvents="false">
+
+                                            <vn.com.sonca.newUI.modal.view.header.MyHeader
+                                                android:id="@+id/myGroupView"
+                                                android:layout_width="fill_parent"
+                                                android:layout_height="fill_parent" />
+
+                                            <LinearLayout
+                                                android:id="@+id/layoutTabDance"
+                                                android:layout_width="fill_parent"
+                                                android:layout_height="fill_parent"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentTop="true"
+                                                android:gravity="center_horizontal"
+                                                android:orientation="horizontal"
+                                                android:splitMotionEvents="false"
+                                                android:visibility="gone">
+
+                                                <View
+                                                    android:layout_width="0dp"
+                                                    android:layout_height="1dp"
+                                                    android:layout_weight="0.17" />
+
+                                                <ImageView
+                                                    android:id="@+id/topMyGroupView"
+                                                    android:layout_width="0dp"
+                                                    android:layout_height="fill_parent"
+                                                    android:layout_weight="0.66"
+                                                    android:background="@drawable/touch_dance_1271x206"
+                                                    android:contentDescription="TODO" />
+
+                                                <View
+                                                    android:layout_width="0dp"
+                                                    android:layout_height="1dp"
+                                                    android:layout_weight="0.17" />
+                                            </LinearLayout>
+
+                                        </RelativeLayout>
+                                    </LinearLayout>
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="0.12"
+                                        android:orientation="horizontal">
+
+                                        <LinearLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="0.05"
+                                            android:orientation="vertical"
+                                            android:splitMotionEvents="false"
+                                            android:weightSum="1">
+
+
+                                            <RelativeLayout
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:layout_weight="0.25"
+                                                android:paddingBottom="5dp"
+                                                android:paddingTop="5dp">
+
+                                                <FrameLayout
+                                                    android:id="@+id/fragmentLayout"
+                                                    android:layout_width="fill_parent"
+                                                    android:layout_height="fill_parent">
+
+                                                </FrameLayout>
+
+                                            </RelativeLayout>
+
+                                            <include
+                                                layout="@layout/bnt_filter_layout"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:layout_weight="0.75" />
+
+                                        </LinearLayout>
+
+                                    </LinearLayout>
+                                </LinearLayout>
+
+                                <include
+                                    layout="@layout/abc_search_layout"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_marginLeft="2dp"
+                                    android:layout_marginRight="3dp"
+                                    android:layout_marginTop="2dp"
+                                    android:layout_weight="0.92" />
+
+
+                            </LinearLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.79"
+                                android:paddingTop="5dp">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"></LinearLayout>
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"
+                                        android:background="@drawable/line_2"></LinearLayout>
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"
+                                        android:background="@drawable/line_1"></LinearLayout>
+                                </LinearLayout>
+
+                                <HorizontalScrollView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:scrollbars="none">
+
+                                    <LinearLayout
+                                        android:id="@+id/layoutTabOtherDance"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="match_parent"
+                                        android:gravity="center_horizontal"
+                                        android:splitMotionEvents="false"
+                                        android:visibility="visible">
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageSong"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageSinger"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageMusician"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageType"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageHotSong"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageRmix"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageFavourite"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imageYouTube"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false"
+                                            android:visibility="visible" />
+
+                                        <vn.com.sonca.newUI.modal.view.tabview.TabViewIcon
+                                            android:id="@+id/imagePlaylist"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_alignEnd="@+id/relativeLayout"
+                                            android:layout_alignRight="@+id/relativeLayout"
+                                            android:layout_below="@+id/layoutColorLyric"
+                                            android:layout_weight="1"
+                                            android:baselineAligned="false"
+                                            android:visibility="visible" />
+
+                                    </LinearLayout>
+                                </HorizontalScrollView>
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/layoutDance"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="horizontal"
+                            android:splitMotionEvents="false"
+                            android:visibility="gone">
+
+                            <FrameLayout
+                                android:id="@+id/fragmentDance"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"></FrameLayout>
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.64"
+                    android:background="@color/color_white"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:splitMotionEvents="false"
+                        android:weightSum="1">
+
+                        <FrameLayout
+                            android:id="@+id/fragmentKaraoke1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="2dp"
+                            android:layout_weight="0.15"
+                            android:background="@drawable/boundery_bg"
+                            android:splitMotionEvents="false">
+
+                        </FrameLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.4"
+                            android:background="@drawable/bg_control">
+
+                            <vn.com.sonca.newUI.modal.view.controler.SingerView
+                                android:id="@+id/singerView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.VerticalLine
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="2dp"
+                                android:layout_marginTop="2dp"
+                                android:background="@drawable/line_3" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.RepeatView
+                                android:id="@+id/repeatView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.VerticalLine
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="2dp"
+                                android:layout_marginTop="2dp"
+                                android:background="@drawable/line_3" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.PlayPauseView
+                                android:id="@+id/pauseView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.VerticalLine
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="2dp"
+                                android:layout_marginTop="2dp"
+                                android:background="@drawable/line_3" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.NextView
+                                android:id="@+id/NextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.VerticalLine
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginBottom="2dp"
+                                android:layout_marginTop="2dp"
+                                android:background="@drawable/line_3" />
+
+                            <vn.com.sonca.newUI.modal.view.controler.MuteView
+                                android:id="@+id/Muteview"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1" />
+
+                        </LinearLayout>
+
+                        <vn.com.sonca.newUI.modal.view.controler.Progressbar
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.45" />
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2">
+
+                        <LinearLayout
+                            android:id="@+id/layoutNoDrawer"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical"
+                            android:soundEffectsEnabled="false"
+                            android:splitMotionEvents="false"
+                            android:weightSum="1">
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="0.08"
+                                android:baselineAligned="false"
+                                android:gravity="center_vertical"
+                                android:orientation="horizontal"
+                                android:splitMotionEvents="false">
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="0.5"
+                                    android:gravity="center_vertical"
+                                    android:orientation="horizontal">
+
+                                    <vn.com.sonca.Touch.CustomView.TouchDefaultControlView
+                                        android:id="@+id/DefaultControlView"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="0.5"
+                                    android:gravity="center_vertical"
+                                    android:orientation="horizontal">
+
+                                    <vn.com.sonca.Touch.CustomView.TouchChangePerfectView
+                                        android:id="@+id/ChangePerfectView"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <include
+                                layout="@layout/volumecontroler_layout"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.2" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.8">
+
+                            </LinearLayout>
+                        </LinearLayout>
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:weightSum="1">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.15"
+                                android:orientation="vertical">
+
+                                <RelativeLayout
+                                    android:id="@+id/search_layout"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="3.5"
+                                    android:background="@color/color_white"
+                                    android:padding="5dp">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="0.4"
+                                        android:gravity="center"
+                                        android:orientation="horizontal"
+                                        android:splitMotionEvents="false"
+                                        android:weightSum="6">
+
+                                        <vn.com.sonca.Touch.CustomView.TouchToneView
+                                            android:id="@+id/toneView"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1" />
+
+                                        <vn.com.sonca.Touch.CustomView.MyVideoView
+                                            android:id="@+id/videoView"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1" />
+
+                                        <vn.com.sonca.Touch.CustomView.ViewFlower
+                                            android:id="@+id/viewFlower"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1" />
+
+                                        <vn.com.sonca.Touch.CustomView.TouchScoreView
+                                            android:id="@+id/ScoreView"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_weight="1" />
+                                    </LinearLayout>
+
+                                    <LinearLayout
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="fill_parent"
+                                        android:orientation="horizontal"
+                                        android:splitMotionEvents="false">
+
+                                        <vn.com.sonca.Touch.CustomView.TouchViewBack
+                                            android:id="@+id/ViewBack"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="fill_parent" />
+
+                                        <RelativeLayout
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:splitMotionEvents="false">
+
+                                            <vn.com.sonca.newUI.modal.view.keyboard.TouchSearchView
+                                                android:id="@+id/searchView"
+                                                android:layout_width="fill_parent"
+                                                android:layout_height="fill_parent"
+                                                android:background="@drawable/boder_search" />
+
+                                        </RelativeLayout>
+                                    </LinearLayout>
+                                </RelativeLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="1"
+                                    android:baselineAligned="false">
+
+                                    <fragment
+                                        android:id="@+id/fragmentKeyBoard"
+                                        android:name="vn.com.sonca.newUI.modal.view.keyboard.KTVKeyboardFragment"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.85"
+                                android:background="@color/color_white">
+
+                                <Button
+                                    android:id="@+id/banphim"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="1"
+                                    android:padding="3dp"
+                                    android:text="Bàn phím"
+                                    android:textSize="12sp" />
+
+                                <Button
+                                    android:id="@+id/dieukhien"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="1"
+                                    android:padding="3dp"
+                                    android:text="Điều khiển"
+                                    android:textSize="12sp" />
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+
+                    </RelativeLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutConnect"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="start"
+            android:orientation="vertical"
+            android:splitMotionEvents="false" >
+
+            <FrameLayout
+                android:id="@+id/fragmentConnect"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent" >
+            </FrameLayout>
+        </LinearLayout>
+    </vn.com.sonca.Touch.CustomView.TouchMyDrawerLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:splitMotionEvents="false">
+
+        <LinearLayout
+            android:id="@+id/layoutAnimation"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <vn.com.sonca.Touch.CustomView.TouchAnimationView
+                android:id="@+id/AnimationView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutSingerLink"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <vn.com.sonca.Touch.CustomView.TouchSingerLinkView
+                android:id="@+id/SingerLinkView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutLinkDance"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <vn.com.sonca.Touch.CustomView.TouchDanceLinkView
+                android:id="@+id/DanceLinkView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutDownload"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <vn.com.sonca.Touch.CustomView.TouchDownloadView
+                android:id="@+id/DownloadView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutColorLyric"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:splitMotionEvents="false"
+        android:visibility="gone" android:focusable="true">
+
+    </RelativeLayout>
+
+</RelativeLayout>

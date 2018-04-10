@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="3dp"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/tabFilter"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            app:tab_title="Ca sĩ nam" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/tabFilter2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            app:tab_title="Ca sĩ nữ" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/tabFilter3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:visibility="invisible" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/up"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="up" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/total"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="total" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/down"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="down" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/back"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="back" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/ngonngu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="Ngôn ngữ"
+            app:title="Ngôn ngữ" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/nhacdance"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="Nhạc dance"
+            app:title="Nhạc dance" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/macDinh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="Mặc định"
+            app:title="Mặc định" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/hoaAm"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="Hòa Âm"
+            app:title="Hòa âm" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/midi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="Midi" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/ktv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="KTV" />
+
+        <vn.com.sonca.newUI.modal.view.tabview.TabFilter
+            android:id="@+id/tatca"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            app:tab_title="Tất cả" />
+    </LinearLayout>
+</LinearLayout>

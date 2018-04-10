@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginRight="5dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.25"
+        android:background="@drawable/abc"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <vn.com.sonca.newUI.modal.view.charseach.Groupchar
+                android:id="@+id/abc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <vn.com.sonca.newUI.modal.view.charseach.Character
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </vn.com.sonca.newUI.modal.view.charseach.Groupchar>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.75">
+
+    </LinearLayout>
+</LinearLayout>

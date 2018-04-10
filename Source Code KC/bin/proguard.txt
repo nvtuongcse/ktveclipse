@@ -1,0 +1,1251 @@
+# view res/layout/dialog_score.xml #generated:7
+-keep class app.sonca.Dialog.ScoreLayout.MainScoreViewGroup { <init>(...); }
+
+# view res/layout/dialog_score.xml #generated:16
+-keep class app.sonca.Dialog.ScoreLayout.MyTextScore { <init>(...); }
+
+# view res/layout/dialog_score_222.xml #generated:18
+-keep class app.sonca.Dialog.ScoreLayout.ScoreBackgroud { <init>(...); }
+
+# view res/layout/dialog_score_222.xml #generated:22
+# view res/layout/dialog_score_222.xml #generated:26
+-keep class app.sonca.Dialog.ScoreLayout.ScoreFrameView { <init>(...); }
+
+# view res/layout/dialog_score_222.xml #generated:60
+-keep class app.sonca.Dialog.ScoreLayout.ScoreImageView { <init>(...); }
+
+# view res/layout/dialog_score_222.xml #generated:35
+# view res/layout/dialog_score_222.xml #generated:40
+# view res/layout/dialog_score_222.xml #generated:45
+# view res/layout/dialog_score_222.xml #generated:50
+# view res/layout/dialog_score_222.xml #generated:55
+-keep class app.sonca.Dialog.ScoreLayout.ScoreItem { <init>(...); }
+
+# view res/layout/dialog_score.xml #generated:20
+# view res/layout/dialog_score_222.xml #generated:30
+-keep class app.sonca.Dialog.ScoreLayout.ScoreKaraokeView { <init>(...); }
+
+# view res/layout/dialog_score_222.xml #generated:14
+-keep class app.sonca.Dialog.ScoreLayout.ScoreViewGroup { <init>(...); }
+
+# view res/layout/dialog_score.xml #generated:25
+-keep class app.sonca.Dialog.ScoreLayout.StateScoreView { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:105
+-keep class app.sonca.flower.GroudRightFlower { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:37
+-keep class app.sonca.flower.GroupAvatar { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:59
+-keep class app.sonca.flower.GroupGiveFlower { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:33
+-keep class app.sonca.flower.GroupLeftFlower { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:123
+-keep class app.sonca.flower.LuckRollView { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:42
+# view res/layout/dialog_flower.xml #generated:46
+# view res/layout/dialog_flower.xml #generated:50
+# view res/layout/dialog_flower.xml #generated:54
+-keep class app.sonca.flower.ViewAvatar { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:109
+# view res/layout/dialog_flower.xml #generated:116
+# view res/layout/dialog_flower.xml #generated:85
+-keep class app.sonca.flower.ViewFlowerBut { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:8
+-keep class app.sonca.flower.ViewFlowerTop { <init>(...); }
+
+# view res/layout/dialog_flower.xml #generated:64
+# view res/layout/dialog_flower.xml #generated:68
+# view res/layout/dialog_flower.xml #generated:72
+# view res/layout/dialog_flower.xml #generated:76
+# view res/layout/dialog_flower.xml #generated:80
+-keep class app.sonca.flower.ViewGiveFlower { <init>(...); }
+
+# view res/layout/activity_main_youtube.xml #generated:7
+-keep class com.google.android.youtube.player.YouTubePlayerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.moonbelly.youtube.YoutubePlayerActivity { <init>(...); }
+
+# view res/layout/item_youtube_list.xml #generated:6
+-keep class com.moonbelly.youtubeFrag.ItemYouTube { <init>(...); }
+
+# view res/layout/playlyric_layout_video.xml #generated:27
+-keep class io.vov.vitamio.widget.VideoView { <init>(...); }
+
+# view res/layout/activity_video.xml #generated:13
+# view res/layout/fragment_karaoke.xml #generated:17
+# view res/layout/fragment_reviewkaraoke.xml #generated:17
+-keep class tv.danmaku.ijk.media.widget.VideoView { <init>(...); }
+
+# view res/layout/dialog_addsongdata.xml #generated:274
+# view res/layout/dialog_addsongdata.xml #generated:280
+# view res/layout/dialog_addsongdata.xml #generated:286
+-keep class vn.com.sonca.AddDataSong.ViewAddBut { <init>(...); }
+
+# view res/layout/dialog_delsongdata_item_del.xml #generated:12
+-keep class vn.com.sonca.AddDataSong.ViewAddSong { <init>(...); }
+
+# view res/layout/dialog_addsongdata.xml #generated:15
+-keep class vn.com.sonca.AddDataSong.ViewAddTop { <init>(...); }
+
+# view res/layout/dialog_addsongdata_item_del.xml #generated:12
+-keep class vn.com.sonca.AddDataSong.ViewDelSong { <init>(...); }
+
+# view res/layout/dialog_addsongdata.xml #generated:38
+-keep class vn.com.sonca.AddDataSong.ViewSearchAdd { <init>(...); }
+
+# view res/layout/dialog_usbsongdata_item.xml #generated:7
+-keep class vn.com.sonca.AddDataSong.ViewUsb { <init>(...); }
+
+# view res/layout/fragment_karaoke.xml #generated:66
+-keep class vn.com.sonca.ColorLyric.LyricBack { <init>(...); }
+
+# view res/layout/fragment_karaoke.xml #generated:208
+# view res/layout/fragment_karaoke.xml #generated:262
+# view res/layout/fragment_karaoke.xml #generated:316
+# view res/layout/fragment_karaoke.xml #generated:337
+# view res/layout/fragment_karaoke.xml #generated:78
+# view res/layout/fragment_reviewkaraoke.xml #generated:109
+# view res/layout/fragment_reviewkaraoke.xml #generated:163
+# view res/layout/fragment_reviewkaraoke.xml #generated:217
+# view res/layout/fragment_reviewkaraoke.xml #generated:238
+# view res/layout/fragment_reviewkaraoke.xml #generated:58
+-keep class vn.com.sonca.ColorLyric.MagicTextView { <init>(...); }
+
+# view res/layout/fragment_karaoke.xml #generated:227
+# view res/layout/fragment_karaoke.xml #generated:281
+# view res/layout/fragment_reviewkaraoke.xml #generated:128
+# view res/layout/fragment_reviewkaraoke.xml #generated:182
+-keep class vn.com.sonca.ColorLyric.SentenceTextView { <init>(...); }
+
+# view res/layout/fragment_sleepdevice.xml #generated:7
+-keep class vn.com.sonca.CustomView.ViewLeftNo { <init>(...); }
+
+# view res/layout/dialog_block_melody.xml #generated:21
+-keep class vn.com.sonca.Dialog.BlockMelody.BlockBackgroudMelodyGroup { <init>(...); }
+
+# view res/layout/dialog_block_melody.xml #generated:30
+-keep class vn.com.sonca.Dialog.BlockMelody.BlockMelodyGroup { <init>(...); }
+
+# view res/layout/dialog_block_melody.xml #generated:55
+-keep class vn.com.sonca.Dialog.BlockMelody.MelodyDragView { <init>(...); }
+
+# view res/layout/dialog_block_volumn.xml #generated:21
+-keep class vn.com.sonca.Dialog.BlockVolumn.BlockBackgroudVolumnGroup { <init>(...); }
+
+# view res/layout/dialog_block_volumn.xml #generated:30
+-keep class vn.com.sonca.Dialog.BlockVolumn.BlockVolumnGroup { <init>(...); }
+
+# view res/layout/dialog_block_volumn.xml #generated:85
+# view res/layout/dialog_block_volumn.xml #generated:90
+-keep class vn.com.sonca.Dialog.BlockVolumn.VolumnClickView { <init>(...); }
+
+# view res/layout/dialog_block_volumn.xml #generated:100
+# view res/layout/dialog_block_volumn.xml #generated:105
+# view res/layout/dialog_block_volumn.xml #generated:95
+-keep class vn.com.sonca.Dialog.BlockVolumn.VolumnDragView { <init>(...); }
+
+# view res/layout/dialog_block_melody.xml #generated:51
+# view res/layout/dialog_block_volumn.xml #generated:65
+# view res/layout/dialog_block_volumn.xml #generated:69
+# view res/layout/dialog_block_volumn.xml #generated:73
+# view res/layout/dialog_block_volumn.xml #generated:77
+# view res/layout/dialog_block_volumn.xml #generated:81
+# view res/layout/touch_text_view.xml #generated:16
+-keep class vn.com.sonca.Dialog.BlockVolumn.VolumnTextD { <init>(...); }
+
+# view res/layout/touch_dialog_lyric.xml #generated:21
+-keep class vn.com.sonca.Lyric.DialogLyricView { <init>(...); }
+
+# view res/layout/lyricfragment_layout.xml #generated:20
+# view res/layout/touch_dialog_lyric.xml #generated:94
+-keep class vn.com.sonca.Lyric.ImageSinger { <init>(...); }
+
+# view res/layout/playlyric_layout_video.xml #generated:15
+# view res/layout/touch_dialog_lyric.xml #generated:48
+-keep class vn.com.sonca.Lyric.LyricBack { <init>(...); }
+
+# view res/layout/touch_dialog_lyric.xml #generated:169
+-keep class vn.com.sonca.Lyric.ZoomInView { <init>(...); }
+
+# view res/layout/touch_dialog_lyric.xml #generated:182
+-keep class vn.com.sonca.Lyric.ZoomOutView { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class vn.com.sonca.PlayLyric.PlayLyricActivity_Video { <init>(...); }
+
+# view res/layout/dialog_settingall.xml #generated:48
+# view res/layout/dialog_settingall.xml #generated:94
+# view res/layout/dialog_settingapp.xml #generated:128
+# view res/layout/dialog_settingapp.xml #generated:209
+# view res/layout/dialog_settingapp.xml #generated:39
+# view res/layout/dialog_settingapp.xml #generated:82
+-keep class vn.com.sonca.SettingAll.MyTextSettingView { <init>(...); }
+
+# view res/layout/dialog_settingall.xml #generated:56
+# view res/layout/dialog_settingapp.xml #generated:217
+# view res/layout/dialog_settingapp.xml #generated:47
+# view res/layout/dialog_settingapp.xml #generated:90
+-keep class vn.com.sonca.SettingAll.PopSettingView { <init>(...); }
+
+# view res/layout/dialog_settingall.xml #generated:9
+-keep class vn.com.sonca.SettingAll.TopSettingView { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:399
+-keep class vn.com.sonca.SetttingApp.AppInfoView { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:67
+-keep class vn.com.sonca.SetttingApp.ButonOnOff { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:295
+# view res/layout/dialog_settingapp.xml #generated:303
+-keep class vn.com.sonca.SetttingApp.ItemScreenView { <init>(...); }
+
+# view res/layout/dialog_settingall.xml #generated:102
+# view res/layout/dialog_settingall.xml #generated:110
+# view res/layout/dialog_settingall.xml #generated:117
+# view res/layout/dialog_settingall.xml #generated:124
+# view res/layout/dialog_settingall.xml #generated:131
+# view res/layout/dialog_settingapp.xml #generated:136
+# view res/layout/dialog_settingapp.xml #generated:144
+# view res/layout/dialog_settingapp.xml #generated:151
+# view res/layout/dialog_settingapp.xml #generated:158
+# view res/layout/dialog_settingapp.xml #generated:165
+-keep class vn.com.sonca.SetttingApp.ItemTimerView { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:246
+# view res/layout/dialog_settingapp.xml #generated:287
+# view res/layout/dialog_settingapp.xml #generated:331
+# view res/layout/dialog_settingapp.xml #generated:391
+-keep class vn.com.sonca.SetttingApp.MyTextSettingView { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:254
+-keep class vn.com.sonca.SetttingApp.PopSettingView { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:9
+-keep class vn.com.sonca.SetttingApp.TopSettingView { <init>(...); }
+
+# view res/layout/fragment_sleepdevice.xml #generated:46
+-keep class vn.com.sonca.SleepDevice.ButtonSleep { <init>(...); }
+
+# view res/layout/item_sleep.xml #generated:7
+-keep class vn.com.sonca.SleepDevice.SleepView { <init>(...); }
+
+# view res/layout/fragment_sleepdevice.xml #generated:27
+-keep class vn.com.sonca.SleepDevice.TopSleepView { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:154
+# view res/layout/dialog_command.xml #generated:184
+# view res/layout/dialog_command.xml #generated:199
+# view res/layout/dialog_command.xml #generated:233
+# view res/layout/dialog_command.xml #generated:248
+# view res/layout/dialog_command.xml #generated:263
+# view res/layout/dialog_command.xml #generated:278
+# view res/layout/dialog_command.xml #generated:51
+# view res/layout/dialog_command.xml #generated:66
+# view res/layout/touch_dialog_command.xml #generated:127
+# view res/layout/touch_dialog_command.xml #generated:142
+# view res/layout/touch_dialog_command.xml #generated:157
+# view res/layout/touch_dialog_command.xml #generated:172
+# view res/layout/touch_dialog_command.xml #generated:204
+# view res/layout/touch_dialog_command.xml #generated:219
+# view res/layout/touch_dialog_command.xml #generated:234
+# view res/layout/touch_dialog_command.xml #generated:249
+# view res/layout/touch_dialog_command.xml #generated:51
+# view res/layout/touch_dialog_command.xml #generated:66
+# view res/layout/touch_dialog_command.xml #generated:89
+-keep class vn.com.sonca.Touch.BlockCommand.ButonOnOff { <init>(...); }
+
+# view res/layout/dialog_cancel_phone.xml #generated:30
+# view res/layout/dialog_confirm.xml #generated:39
+# view res/layout/dialog_confirm.xml #generated:45
+# view res/layout/dialog_control.xml #generated:30
+# view res/layout/dialog_control.xml #generated:36
+# view res/layout/dialog_edittext.xml #generated:78
+# view res/layout/dialog_edittext.xml #generated:84
+# view res/layout/dialog_edittext_wifimorong.xml #generated:136
+# view res/layout/dialog_edittext_wifimorong.xml #generated:142
+# view res/layout/dialog_firmware_server.xml #generated:52
+# view res/layout/dialog_firmware_server.xml #generated:58
+# view res/layout/dialog_noadd_playlist.xml #generated:30
+-keep class vn.com.sonca.Touch.BlockCommand.ButtonControl { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:169
+-keep class vn.com.sonca.Touch.BlockCommand.ButtonMelodyOnOff { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:294
+# view res/layout/touch_dialog_command.xml #generated:264
+-keep class vn.com.sonca.Touch.BlockCommand.ButtonOk { <init>(...); }
+
+# view res/layout/dialog_block_melody.xml #generated:60
+# view res/layout/dialog_block_volumn.xml #generated:110
+# view res/layout/dialog_score_percent.xml #generated:46
+-keep class vn.com.sonca.Touch.BlockCommand.ButtonPercent { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:108
+-keep class vn.com.sonca.Touch.BlockCommand.ButtonScoreOnOff { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:83
+-keep class vn.com.sonca.Touch.BlockCommand.ButtonVolumnOnOff { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:14
+# view res/layout/touch_dialog_command.xml #generated:15
+-keep class vn.com.sonca.Touch.BlockCommand.CommandBack { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:104
+# view res/layout/dialog_command.xml #generated:79
+-keep class vn.com.sonca.Touch.BlockCommand.GroupScoreOnOff { <init>(...); }
+
+# view res/layout/dialog_score_percent.xml #generated:40
+-keep class vn.com.sonca.Touch.BlockCommand.ScorePercentView { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:88
+-keep class vn.com.sonca.Touch.BlockCommand.VolumnMasterView { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:351
+-keep class vn.com.sonca.Touch.CustomView.DownVideoView { <init>(...); }
+
+# view res/layout/fragment_selectlist.xml #generated:48
+# view res/layout/touch_fragment_language.xml #generated:46
+-keep class vn.com.sonca.Touch.CustomView.LanguageButtonModel { <init>(...); }
+
+# view res/layout/language_listview_item.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.LanguageSongTypeFirstItemView { <init>(...); }
+
+# view res/layout/language_listview_item.xml #generated:13
+-keep class vn.com.sonca.Touch.CustomView.LanguageSongTypeRemainItemView { <init>(...); }
+
+# view res/layout/touch_fragment_language.xml #generated:27
+-keep class vn.com.sonca.Touch.CustomView.LanguageTopModelView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:511
+# view res/layout/touch_activity_main.xml #generated:344
+-keep class vn.com.sonca.Touch.CustomView.MyVideoView { <init>(...); }
+
+# view res/layout/item_popup_slider.xml #generated:12
+-keep class vn.com.sonca.Touch.CustomView.SliderMuteView { <init>(...); }
+
+# view res/layout/item_popup_slider.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.SliderView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:641
+# view res/layout/ktv_mainactivity.xml #generated:244
+# view res/layout/touch_activity_main.xml #generated:468
+-keep class vn.com.sonca.Touch.CustomView.TouchAnimationView { <init>(...); }
+
+# view res/layout/touch_fragment_model.xml #generated:46
+-keep class vn.com.sonca.Touch.CustomView.TouchButtonModel { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:447
+# view res/layout/touch_activity_main.xml #generated:195
+-keep class vn.com.sonca.Touch.CustomView.TouchChangePerfectView { <init>(...); }
+
+# view res/layout/touch_toast_connect_success.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchConnectSuccessView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:667
+# view res/layout/ktv_mainactivity.xml #generated:270
+# view res/layout/touch_activity_main.xml #generated:494
+-keep class vn.com.sonca.Touch.CustomView.TouchDanceLinkView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:350
+# view res/layout/touch_fragment_dancee.xml #generated:77
+-keep class vn.com.sonca.Touch.CustomView.TouchDanceView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:434
+# view res/layout/touch_activity_main.xml #generated:182
+-keep class vn.com.sonca.Touch.CustomView.TouchDefaultControlView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:302
+-keep class vn.com.sonca.Touch.CustomView.TouchDeleteSearchView { <init>(...); }
+
+# view res/layout/touch_fragment_admin.xml #generated:27
+-keep class vn.com.sonca.Touch.CustomView.TouchDeviceAdmin { <init>(...); }
+
+# view res/layout/touch_fragment_device.xml #generated:29
+-keep class vn.com.sonca.Touch.CustomView.TouchDeviceView { <init>(...); }
+
+# view res/layout/touch_fragment_device.xml #generated:41
+-keep class vn.com.sonca.Touch.CustomView.TouchDeviceViewIP { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:680
+# view res/layout/ktv_mainactivity.xml #generated:283
+# view res/layout/touch_activity_main.xml #generated:507
+-keep class vn.com.sonca.Touch.CustomView.TouchDownloadView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:119
+-keep class vn.com.sonca.Touch.CustomView.TouchFavouriteTypeView { <init>(...); }
+
+# view res/layout/dialog_addsongdata_item_del.xml #generated:7
+# view res/layout/dialog_delsongdata_item_del.xml #generated:7
+# view res/layout/touch_item_favourite_list.xml #generated:7
+# view res/layout/touch_item_song_list.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchGlowView { <init>(...); }
+
+# view res/layout/touch_fragment_hello.xml #generated:28
+-keep class vn.com.sonca.Touch.CustomView.TouchGroupHello { <init>(...); }
+
+# view res/layout/touch_fragment_hello.xml #generated:33
+-keep class vn.com.sonca.Touch.CustomView.TouchHelloView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:109
+-keep class vn.com.sonca.Touch.CustomView.TouchHotSongTypeView { <init>(...); }
+
+# view res/layout/touch_item_dance.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchItemDance { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:222
+-keep class vn.com.sonca.Touch.CustomView.TouchKeyView { <init>(...); }
+
+# view res/layout/touch_fragment_listdevice.xml #generated:18
+-keep class vn.com.sonca.Touch.CustomView.TouchListDeviceView { <init>(...); }
+
+# view res/layout/touch_fragment_dancee.xml #generated:51
+# view res/layout/touch_fragment_playlist.xml #generated:42
+-keep class vn.com.sonca.Touch.CustomView.TouchListView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:210
+-keep class vn.com.sonca.Touch.CustomView.TouchMelodyView { <init>(...); }
+
+# view res/layout/touch_item_model.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchModelView { <init>(...); }
+
+# view res/layout/touch_musician_gridview_item.xml #generated:3
+-keep class vn.com.sonca.Touch.CustomView.TouchMusicianItemView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:99
+-keep class vn.com.sonca.Touch.CustomView.TouchMusicianTypeView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:7
+# view res/layout/ktv_mainactivity.xml #generated:8
+# view res/layout/touch_activity_main.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchMyDrawerLayout { <init>(...); }
+
+# view res/layout/touch_item_favourite_list.xml #generated:12
+-keep class vn.com.sonca.Touch.CustomView.TouchMyGroupFavourite { <init>(...); }
+
+# view res/layout/touch_item_playlist_list.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchMyGroupPlaylist { <init>(...); }
+
+# view res/layout/touch_item_song_list.xml #generated:12
+-keep class vn.com.sonca.Touch.CustomView.TouchMyGroupSong { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:39
+-keep class vn.com.sonca.Touch.CustomView.TouchMyGroupView { <init>(...); }
+
+# view res/layout/fragment_karaoke.xml #generated:129
+# view res/layout/touch_activity_main.xml #generated:411
+# view res/layout/touch_fragment_dancee.xml #generated:100
+-keep class vn.com.sonca.Touch.CustomView.TouchNextView { <init>(...); }
+
+# view res/layout/touch_item_device_list.xml #generated:8
+-keep class vn.com.sonca.Touch.CustomView.TouchOneDeviceView { <init>(...); }
+
+# view res/layout/fragment_karaoke.xml #generated:111
+# view res/layout/touch_activity_main.xml #generated:405
+# view res/layout/touch_fragment_dancee.xml #generated:94
+-keep class vn.com.sonca.Touch.CustomView.TouchPauseView { <init>(...); }
+
+# view res/layout/touch_dialog_connect.xml #generated:8
+-keep class vn.com.sonca.Touch.CustomView.TouchPopupConnectView { <init>(...); }
+
+# view res/layout/touch_item_popup_down_percent.xml #generated:9
+-keep class vn.com.sonca.Touch.CustomView.TouchPopupViewDownloadPercent { <init>(...); }
+
+# view res/layout/touch_item_popup_exit_app.xml #generated:9
+-keep class vn.com.sonca.Touch.CustomView.TouchPopupViewExitApp { <init>(...); }
+
+# view res/layout/touch_item_popup_update_pic.xml #generated:10
+-keep class vn.com.sonca.Touch.CustomView.TouchPopupViewUpdatePic { <init>(...); }
+
+# view res/layout/touch_item_popup_update_toc.xml #generated:10
+-keep class vn.com.sonca.Touch.CustomView.TouchPopupViewUpdateToc { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:114
+-keep class vn.com.sonca.Touch.CustomView.TouchRemixTypeView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:399
+# view res/layout/touch_fragment_dancee.xml #generated:88
+-keep class vn.com.sonca.Touch.CustomView.TouchRepeatView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:104
+-keep class vn.com.sonca.Touch.CustomView.TouchSTypeTypeView { <init>(...); }
+
+# view res/layout/dialog_command.xml #generated:113
+# view res/layout/ktv_main_activity_newui.xml #generated:523
+# view res/layout/touch_activity_main.xml #generated:371
+-keep class vn.com.sonca.Touch.CustomView.TouchScoreView { <init>(...); }
+
+# view res/layout/touch_fragment_dancee.xml #generated:41
+-keep class vn.com.sonca.Touch.CustomView.TouchSearchDance { <init>(...); }
+
+# view res/layout/touch_fragment_hello.xml #generated:85
+-keep class vn.com.sonca.Touch.CustomView.TouchSettingView { <init>(...); }
+
+# view res/layout/touch_singer_gridview_item.xml #generated:3
+-keep class vn.com.sonca.Touch.CustomView.TouchSingerItemView { <init>(...); }
+
+# view res/layout/ktv_dialog_singerlink.xml #generated:8
+# view res/layout/ktv_main_activity_newui.xml #generated:654
+# view res/layout/ktv_mainactivity.xml #generated:257
+# view res/layout/touch_activity_main.xml #generated:481
+# view res/layout/touch_dialog_singerlink.xml #generated:8
+-keep class vn.com.sonca.Touch.CustomView.TouchSingerLinkView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:94
+-keep class vn.com.sonca.Touch.CustomView.TouchSingerTypeView { <init>(...); }
+
+# view res/layout/fragment_karaoke.xml #generated:163
+# view res/layout/touch_activity_main.xml #generated:386
+-keep class vn.com.sonca.Touch.CustomView.TouchSingerView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:89
+-keep class vn.com.sonca.Touch.CustomView.TouchSongTypeView { <init>(...); }
+
+# view res/layout/fragment_song_follow.xml #generated:91
+# view res/layout/touch_fragment_song.xml #generated:78
+-keep class vn.com.sonca.Touch.CustomView.TouchStatusTotalView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:216
+-keep class vn.com.sonca.Touch.CustomView.TouchTempoView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:505
+# view res/layout/touch_activity_main.xml #generated:392
+-keep class vn.com.sonca.Touch.CustomView.TouchToneView { <init>(...); }
+
+# view res/layout/touch_fragment_model.xml #generated:27
+-keep class vn.com.sonca.Touch.CustomView.TouchTopModelView { <init>(...); }
+
+# view res/layout/fragment_song_follow.xml #generated:80
+# view res/layout/fragment_youtube.xml #generated:157
+# view res/layout/touch_fragment_musician.xml #generated:75
+# view res/layout/touch_fragment_singer.xml #generated:75
+# view res/layout/touch_fragment_song.xml #generated:67
+-keep class vn.com.sonca.Touch.CustomView.TouchTotalView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:536
+# view res/layout/touch_activity_main.xml #generated:279
+-keep class vn.com.sonca.Touch.CustomView.TouchViewBack { <init>(...); }
+
+# view res/layout/fragment_selectlist.xml #generated:7
+# view res/layout/touch_fragment_language.xml #generated:7
+# view res/layout/touch_fragment_model.xml #generated:7
+-keep class vn.com.sonca.Touch.CustomView.TouchViewLeftNo { <init>(...); }
+
+# view res/layout/touch_item_dance.xml #generated:24
+# view res/layout/touch_item_playlist_list.xml #generated:24
+-keep class vn.com.sonca.Touch.CustomView.TouchViewNoThing { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:237
+# view res/layout/touch_fragment_dancee.xml #generated:26
+-keep class vn.com.sonca.Touch.CustomView.TouchVolumnView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:517
+# view res/layout/touch_activity_main.xml #generated:365
+-keep class vn.com.sonca.Touch.CustomView.ViewFlower { <init>(...); }
+
+# view res/layout/dialog_settingapp.xml #generated:357
+-keep class vn.com.sonca.Touch.CustomView.XoaVideoView { <init>(...); }
+
+# view res/layout/touch_activity_main.xml #generated:124
+-keep class vn.com.sonca.Touch.CustomView.YouTubeTypeView { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:145
+-keep class vn.com.sonca.Touch.Hi_W.BottomHiWView { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:122
+-keep class vn.com.sonca.Touch.Hi_W.CheckNetworkWifi { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:84
+-keep class vn.com.sonca.Touch.Hi_W.CheckPassWifiView { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:46
+-keep class vn.com.sonca.Touch.Hi_W.InforFirmwareView { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:127
+# view res/layout/fagment_hi_w.xml #generated:132
+# view res/layout/fagment_hi_w.xml #generated:79
+# view res/layout/fagment_hi_w.xml #generated:89
+# view res/layout/fagment_hi_w.xml #generated:94
+-keep class vn.com.sonca.Touch.Hi_W.MyEditText { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:117
+# view res/layout/fagment_hi_w.xml #generated:41
+# view res/layout/fagment_hi_w.xml #generated:74
+-keep class vn.com.sonca.Touch.Hi_W.MyTextView { <init>(...); }
+
+# view res/layout/fagment_hi_w.xml #generated:14
+-keep class vn.com.sonca.Touch.Hi_W.TopHiWView { <init>(...); }
+
+# view res/layout/dialog_addsongdata.xml #generated:100
+# view res/layout/dialog_addsongdata.xml #generated:104
+# view res/layout/dialog_addsongdata.xml #generated:108
+# view res/layout/dialog_addsongdata.xml #generated:112
+# view res/layout/dialog_addsongdata.xml #generated:116
+# view res/layout/dialog_addsongdata.xml #generated:120
+# view res/layout/dialog_addsongdata.xml #generated:124
+# view res/layout/dialog_addsongdata.xml #generated:135
+# view res/layout/dialog_addsongdata.xml #generated:139
+# view res/layout/dialog_addsongdata.xml #generated:143
+# view res/layout/dialog_addsongdata.xml #generated:147
+# view res/layout/dialog_addsongdata.xml #generated:151
+# view res/layout/dialog_addsongdata.xml #generated:155
+# view res/layout/dialog_addsongdata.xml #generated:159
+# view res/layout/dialog_addsongdata.xml #generated:163
+# view res/layout/dialog_addsongdata.xml #generated:167
+# view res/layout/dialog_addsongdata.xml #generated:171
+# view res/layout/dialog_addsongdata.xml #generated:175
+# view res/layout/dialog_addsongdata.xml #generated:179
+# view res/layout/dialog_addsongdata.xml #generated:183
+# view res/layout/dialog_addsongdata.xml #generated:187
+# view res/layout/dialog_addsongdata.xml #generated:191
+# view res/layout/dialog_addsongdata.xml #generated:195
+# view res/layout/dialog_addsongdata.xml #generated:199
+# view res/layout/dialog_addsongdata.xml #generated:203
+# view res/layout/dialog_addsongdata.xml #generated:207
+# view res/layout/dialog_addsongdata.xml #generated:211
+# view res/layout/dialog_addsongdata.xml #generated:215
+# view res/layout/dialog_addsongdata.xml #generated:219
+# view res/layout/dialog_addsongdata.xml #generated:223
+# view res/layout/dialog_addsongdata.xml #generated:227
+# view res/layout/dialog_addsongdata.xml #generated:231
+# view res/layout/dialog_addsongdata.xml #generated:235
+# view res/layout/dialog_addsongdata.xml #generated:239
+# view res/layout/dialog_addsongdata.xml #generated:243
+# view res/layout/dialog_addsongdata.xml #generated:247
+# view res/layout/dialog_addsongdata.xml #generated:251
+# view res/layout/dialog_addsongdata.xml #generated:88
+# view res/layout/dialog_addsongdata.xml #generated:92
+# view res/layout/dialog_addsongdata.xml #generated:96
+# view res/layout/dialog_sk90xx_hidden.xml #generated:100
+# view res/layout/dialog_sk90xx_hidden.xml #generated:104
+# view res/layout/dialog_sk90xx_hidden.xml #generated:108
+# view res/layout/dialog_sk90xx_hidden.xml #generated:112
+# view res/layout/dialog_sk90xx_hidden.xml #generated:116
+# view res/layout/dialog_sk90xx_hidden.xml #generated:120
+# view res/layout/dialog_sk90xx_hidden.xml #generated:124
+# view res/layout/dialog_sk90xx_hidden.xml #generated:135
+# view res/layout/dialog_sk90xx_hidden.xml #generated:139
+# view res/layout/dialog_sk90xx_hidden.xml #generated:143
+# view res/layout/dialog_sk90xx_hidden.xml #generated:147
+# view res/layout/dialog_sk90xx_hidden.xml #generated:151
+# view res/layout/dialog_sk90xx_hidden.xml #generated:155
+# view res/layout/dialog_sk90xx_hidden.xml #generated:159
+# view res/layout/dialog_sk90xx_hidden.xml #generated:163
+# view res/layout/dialog_sk90xx_hidden.xml #generated:167
+# view res/layout/dialog_sk90xx_hidden.xml #generated:171
+# view res/layout/dialog_sk90xx_hidden.xml #generated:175
+# view res/layout/dialog_sk90xx_hidden.xml #generated:179
+# view res/layout/dialog_sk90xx_hidden.xml #generated:183
+# view res/layout/dialog_sk90xx_hidden.xml #generated:187
+# view res/layout/dialog_sk90xx_hidden.xml #generated:191
+# view res/layout/dialog_sk90xx_hidden.xml #generated:195
+# view res/layout/dialog_sk90xx_hidden.xml #generated:199
+# view res/layout/dialog_sk90xx_hidden.xml #generated:203
+# view res/layout/dialog_sk90xx_hidden.xml #generated:207
+# view res/layout/dialog_sk90xx_hidden.xml #generated:211
+# view res/layout/dialog_sk90xx_hidden.xml #generated:215
+# view res/layout/dialog_sk90xx_hidden.xml #generated:219
+# view res/layout/dialog_sk90xx_hidden.xml #generated:223
+# view res/layout/dialog_sk90xx_hidden.xml #generated:227
+# view res/layout/dialog_sk90xx_hidden.xml #generated:231
+# view res/layout/dialog_sk90xx_hidden.xml #generated:235
+# view res/layout/dialog_sk90xx_hidden.xml #generated:239
+# view res/layout/dialog_sk90xx_hidden.xml #generated:243
+# view res/layout/dialog_sk90xx_hidden.xml #generated:247
+# view res/layout/dialog_sk90xx_hidden.xml #generated:251
+# view res/layout/dialog_sk90xx_hidden.xml #generated:88
+# view res/layout/dialog_sk90xx_hidden.xml #generated:92
+# view res/layout/dialog_sk90xx_hidden.xml #generated:96
+# view res/layout/dialog_sk90xx_online.xml #generated:100
+# view res/layout/dialog_sk90xx_online.xml #generated:104
+# view res/layout/dialog_sk90xx_online.xml #generated:108
+# view res/layout/dialog_sk90xx_online.xml #generated:112
+# view res/layout/dialog_sk90xx_online.xml #generated:116
+# view res/layout/dialog_sk90xx_online.xml #generated:120
+# view res/layout/dialog_sk90xx_online.xml #generated:124
+# view res/layout/dialog_sk90xx_online.xml #generated:135
+# view res/layout/dialog_sk90xx_online.xml #generated:139
+# view res/layout/dialog_sk90xx_online.xml #generated:143
+# view res/layout/dialog_sk90xx_online.xml #generated:147
+# view res/layout/dialog_sk90xx_online.xml #generated:151
+# view res/layout/dialog_sk90xx_online.xml #generated:155
+# view res/layout/dialog_sk90xx_online.xml #generated:159
+# view res/layout/dialog_sk90xx_online.xml #generated:163
+# view res/layout/dialog_sk90xx_online.xml #generated:167
+# view res/layout/dialog_sk90xx_online.xml #generated:171
+# view res/layout/dialog_sk90xx_online.xml #generated:175
+# view res/layout/dialog_sk90xx_online.xml #generated:179
+# view res/layout/dialog_sk90xx_online.xml #generated:183
+# view res/layout/dialog_sk90xx_online.xml #generated:187
+# view res/layout/dialog_sk90xx_online.xml #generated:191
+# view res/layout/dialog_sk90xx_online.xml #generated:195
+# view res/layout/dialog_sk90xx_online.xml #generated:199
+# view res/layout/dialog_sk90xx_online.xml #generated:203
+# view res/layout/dialog_sk90xx_online.xml #generated:207
+# view res/layout/dialog_sk90xx_online.xml #generated:211
+# view res/layout/dialog_sk90xx_online.xml #generated:215
+# view res/layout/dialog_sk90xx_online.xml #generated:219
+# view res/layout/dialog_sk90xx_online.xml #generated:223
+# view res/layout/dialog_sk90xx_online.xml #generated:227
+# view res/layout/dialog_sk90xx_online.xml #generated:231
+# view res/layout/dialog_sk90xx_online.xml #generated:235
+# view res/layout/dialog_sk90xx_online.xml #generated:239
+# view res/layout/dialog_sk90xx_online.xml #generated:243
+# view res/layout/dialog_sk90xx_online.xml #generated:247
+# view res/layout/dialog_sk90xx_online.xml #generated:251
+# view res/layout/dialog_sk90xx_online.xml #generated:88
+# view res/layout/dialog_sk90xx_online.xml #generated:92
+# view res/layout/dialog_sk90xx_online.xml #generated:96
+# view res/layout/touch_fragment_keyboard.xml #generated:102
+# view res/layout/touch_fragment_keyboard.xml #generated:106
+# view res/layout/touch_fragment_keyboard.xml #generated:110
+# view res/layout/touch_fragment_keyboard.xml #generated:114
+# view res/layout/touch_fragment_keyboard.xml #generated:118
+# view res/layout/touch_fragment_keyboard.xml #generated:122
+# view res/layout/touch_fragment_keyboard.xml #generated:126
+# view res/layout/touch_fragment_keyboard.xml #generated:130
+# view res/layout/touch_fragment_keyboard.xml #generated:134
+# view res/layout/touch_fragment_keyboard.xml #generated:138
+# view res/layout/touch_fragment_keyboard.xml #generated:142
+# view res/layout/touch_fragment_keyboard.xml #generated:146
+# view res/layout/touch_fragment_keyboard.xml #generated:150
+# view res/layout/touch_fragment_keyboard.xml #generated:154
+# view res/layout/touch_fragment_keyboard.xml #generated:158
+# view res/layout/touch_fragment_keyboard.xml #generated:162
+# view res/layout/touch_fragment_keyboard.xml #generated:166
+# view res/layout/touch_fragment_keyboard.xml #generated:170
+# view res/layout/touch_fragment_keyboard.xml #generated:174
+# view res/layout/touch_fragment_keyboard.xml #generated:178
+# view res/layout/touch_fragment_keyboard.xml #generated:182
+# view res/layout/touch_fragment_keyboard.xml #generated:186
+# view res/layout/touch_fragment_keyboard.xml #generated:190
+# view res/layout/touch_fragment_keyboard.xml #generated:194
+# view res/layout/touch_fragment_keyboard.xml #generated:198
+# view res/layout/touch_fragment_keyboard.xml #generated:35
+# view res/layout/touch_fragment_keyboard.xml #generated:39
+# view res/layout/touch_fragment_keyboard.xml #generated:43
+# view res/layout/touch_fragment_keyboard.xml #generated:47
+# view res/layout/touch_fragment_keyboard.xml #generated:51
+# view res/layout/touch_fragment_keyboard.xml #generated:55
+# view res/layout/touch_fragment_keyboard.xml #generated:59
+# view res/layout/touch_fragment_keyboard.xml #generated:63
+# view res/layout/touch_fragment_keyboard.xml #generated:67
+# view res/layout/touch_fragment_keyboard.xml #generated:71
+# view res/layout/touch_fragment_keyboard.xml #generated:82
+# view res/layout/touch_fragment_keyboard.xml #generated:86
+# view res/layout/touch_fragment_keyboard.xml #generated:90
+# view res/layout/touch_fragment_keyboard.xml #generated:94
+# view res/layout/touch_fragment_keyboard.xml #generated:98
+-keep class vn.com.sonca.Touch.Keyboard.BaseKey { <init>(...); }
+
+# view res/layout/dialog_addsongdata.xml #generated:130
+# view res/layout/dialog_sk90xx_hidden.xml #generated:130
+# view res/layout/dialog_sk90xx_online.xml #generated:130
+# view res/layout/touch_fragment_keyboard.xml #generated:77
+-keep class vn.com.sonca.Touch.Keyboard.GroupKeyBoard { <init>(...); }
+
+# view res/layout/dialog_addsongdata.xml #generated:83
+# view res/layout/dialog_sk90xx_hidden.xml #generated:83
+# view res/layout/dialog_sk90xx_online.xml #generated:83
+# view res/layout/touch_fragment_keyboard.xml #generated:30
+-keep class vn.com.sonca.Touch.Keyboard.GroupKeyBoardNumber { <init>(...); }
+
+# view res/layout/touch_songtype_listview_item.xml #generated:6
+-keep class vn.com.sonca.Touch.SongType.TouchSongTypeBackGround { <init>(...); }
+
+# view res/layout/touch_songtype_listview_item.xml #generated:19
+-keep class vn.com.sonca.Touch.SongType.TouchSongTypeViewV2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class vn.com.sonca.Touch.touchcontrol.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class vn.com.sonca.Touch.touchcontrol.TouchMainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class vn.com.sonca.WebServer.MyHTTPService { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class vn.com.sonca.ktv.karaoketouch.KTVMainActivity { <init>(...); }
+
+# view res/layout/mac_popup_login.xml #generated:13
+-keep class vn.com.sonca.mac.MacKeyboard { <init>(...); }
+
+# view res/layout/mac_popup.xml #generated:7
+-keep class vn.com.sonca.mac.MacPopup { <init>(...); }
+
+# view res/layout/mac_popup_login.xml #generated:8
+-keep class vn.com.sonca.mac.MacPopupLogin { <init>(...); }
+
+# view res/layout/ktv_tabicon_layout.xml #generated:7
+-keep class vn.com.sonca.newUI.modal.fragment.FragmentSong { <init>(...); }
+
+# view res/layout/abc_search_layout.xml #generated:101
+# view res/layout/abc_search_layout.xml #generated:105
+# view res/layout/abc_search_layout.xml #generated:109
+# view res/layout/abc_search_layout.xml #generated:113
+# view res/layout/abc_search_layout.xml #generated:117
+# view res/layout/abc_search_layout.xml #generated:121
+# view res/layout/abc_search_layout.xml #generated:125
+# view res/layout/abc_search_layout.xml #generated:25
+# view res/layout/abc_search_layout.xml #generated:29
+# view res/layout/abc_search_layout.xml #generated:33
+# view res/layout/abc_search_layout.xml #generated:37
+# view res/layout/abc_search_layout.xml #generated:41
+# view res/layout/abc_search_layout.xml #generated:45
+# view res/layout/abc_search_layout.xml #generated:49
+# view res/layout/abc_search_layout.xml #generated:53
+# view res/layout/abc_search_layout.xml #generated:57
+# view res/layout/abc_search_layout.xml #generated:61
+# view res/layout/abc_search_layout.xml #generated:65
+# view res/layout/abc_search_layout.xml #generated:69
+# view res/layout/abc_search_layout.xml #generated:73
+# view res/layout/abc_search_layout.xml #generated:77
+# view res/layout/abc_search_layout.xml #generated:81
+# view res/layout/abc_search_layout.xml #generated:85
+# view res/layout/abc_search_layout.xml #generated:89
+# view res/layout/abc_search_layout.xml #generated:93
+# view res/layout/abc_search_layout.xml #generated:97
+-keep class vn.com.sonca.newUI.modal.view.charseach.Character { <init>(...); }
+
+# view res/layout/abc_search_layout.xml #generated:20
+-keep class vn.com.sonca.newUI.modal.view.charseach.Groupchar { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:388
+-keep class vn.com.sonca.newUI.modal.view.controler.MuteView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:375
+-keep class vn.com.sonca.newUI.modal.view.controler.NextView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:362
+-keep class vn.com.sonca.newUI.modal.view.controler.PlayPauseView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:396
+-keep class vn.com.sonca.newUI.modal.view.controler.Progressbar { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:349
+-keep class vn.com.sonca.newUI.modal.view.controler.RepeatView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:336
+-keep class vn.com.sonca.newUI.modal.view.controler.SingerView { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:342
+# view res/layout/ktv_main_activity_newui.xml #generated:355
+# view res/layout/ktv_main_activity_newui.xml #generated:368
+# view res/layout/ktv_main_activity_newui.xml #generated:381
+-keep class vn.com.sonca.newUI.modal.view.controler.VerticalLine { <init>(...); }
+
+# view res/layout/volumecontroler_layout.xml #generated:18
+# view res/layout/volumecontroler_layout.xml #generated:27
+# view res/layout/volumecontroler_layout.xml #generated:36
+# view res/layout/volumecontroler_layout.xml #generated:9
+-keep class vn.com.sonca.newUI.modal.view.controler.Volume { <init>(...); }
+
+# view res/layout/fragment_listdevices.xml #generated:7
+-keep class vn.com.sonca.newUI.modal.view.drawer.ListDeviceView { <init>(...); }
+
+# view res/layout/ktv_header.xml #generated:14
+-keep class vn.com.sonca.newUI.modal.view.header.Device { <init>(...); }
+
+# view res/layout/ktv_header.xml #generated:6
+-keep class vn.com.sonca.newUI.modal.view.header.Header { <init>(...); }
+
+# view res/layout/ktv_header.xml #generated:10
+-keep class vn.com.sonca.newUI.modal.view.header.Home { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:76
+-keep class vn.com.sonca.newUI.modal.view.header.MyHeader { <init>(...); }
+
+# view res/layout/ktv_keyboard_fragment.xml #generated:101
+# view res/layout/ktv_keyboard_fragment.xml #generated:104
+# view res/layout/ktv_keyboard_fragment.xml #generated:107
+# view res/layout/ktv_keyboard_fragment.xml #generated:11
+# view res/layout/ktv_keyboard_fragment.xml #generated:110
+# view res/layout/ktv_keyboard_fragment.xml #generated:113
+# view res/layout/ktv_keyboard_fragment.xml #generated:116
+# view res/layout/ktv_keyboard_fragment.xml #generated:119
+# view res/layout/ktv_keyboard_fragment.xml #generated:122
+# view res/layout/ktv_keyboard_fragment.xml #generated:14
+# view res/layout/ktv_keyboard_fragment.xml #generated:17
+# view res/layout/ktv_keyboard_fragment.xml #generated:20
+# view res/layout/ktv_keyboard_fragment.xml #generated:23
+# view res/layout/ktv_keyboard_fragment.xml #generated:26
+# view res/layout/ktv_keyboard_fragment.xml #generated:29
+# view res/layout/ktv_keyboard_fragment.xml #generated:32
+# view res/layout/ktv_keyboard_fragment.xml #generated:35
+# view res/layout/ktv_keyboard_fragment.xml #generated:38
+# view res/layout/ktv_keyboard_fragment.xml #generated:41
+# view res/layout/ktv_keyboard_fragment.xml #generated:44
+# view res/layout/ktv_keyboard_fragment.xml #generated:47
+# view res/layout/ktv_keyboard_fragment.xml #generated:50
+# view res/layout/ktv_keyboard_fragment.xml #generated:53
+# view res/layout/ktv_keyboard_fragment.xml #generated:56
+# view res/layout/ktv_keyboard_fragment.xml #generated:59
+# view res/layout/ktv_keyboard_fragment.xml #generated:62
+# view res/layout/ktv_keyboard_fragment.xml #generated:65
+# view res/layout/ktv_keyboard_fragment.xml #generated:68
+# view res/layout/ktv_keyboard_fragment.xml #generated:71
+# view res/layout/ktv_keyboard_fragment.xml #generated:74
+# view res/layout/ktv_keyboard_fragment.xml #generated:77
+# view res/layout/ktv_keyboard_fragment.xml #generated:80
+# view res/layout/ktv_keyboard_fragment.xml #generated:83
+# view res/layout/ktv_keyboard_fragment.xml #generated:86
+# view res/layout/ktv_keyboard_fragment.xml #generated:89
+# view res/layout/ktv_keyboard_fragment.xml #generated:92
+# view res/layout/ktv_keyboard_fragment.xml #generated:95
+# view res/layout/ktv_keyboard_fragment.xml #generated:98
+-keep class vn.com.sonca.newUI.modal.view.keyboard.BaseKey { <init>(...); }
+
+# view res/layout/ktv_keyboard_fragment.xml #generated:6
+-keep class vn.com.sonca.newUI.modal.view.keyboard.GroupKeyBoard { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:562
+# view res/layout/touch_activity_main.xml #generated:326
+-keep class vn.com.sonca.newUI.modal.view.keyboard.KTVKeyboardFragment { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:546
+# view res/layout/touch_activity_main.xml #generated:289
+-keep class vn.com.sonca.newUI.modal.view.keyboard.TouchSearchView { <init>(...); }
+
+# view res/layout/fragment_song_follow.xml #generated:57
+# view res/layout/singer_gridview_item.xml #generated:3
+-keep class vn.com.sonca.newUI.modal.view.listview.ItemSinger { <init>(...); }
+
+# view res/layout/ktv_item.xml #generated:7
+-keep class vn.com.sonca.newUI.modal.view.listview.ItemSong { <init>(...); }
+
+# view res/layout/ktv_item_song_type.xml #generated:5
+-keep class vn.com.sonca.newUI.modal.view.listview.ItemSongType { <init>(...); }
+
+# view res/layout/ktv_language_listview.xml #generated:7
+-keep class vn.com.sonca.newUI.modal.view.listview.LanguageFirstItemView { <init>(...); }
+
+# view res/layout/ktv_language_listview.xml #generated:13
+-keep class vn.com.sonca.newUI.modal.view.listview.LanguageRemainItemView { <init>(...); }
+
+# view res/layout/bnt_filter_layout.xml #generated:108
+# view res/layout/bnt_filter_layout.xml #generated:117
+# view res/layout/bnt_filter_layout.xml #generated:125
+# view res/layout/bnt_filter_layout.xml #generated:133
+# view res/layout/bnt_filter_layout.xml #generated:16
+# view res/layout/bnt_filter_layout.xml #generated:25
+# view res/layout/bnt_filter_layout.xml #generated:34
+# view res/layout/bnt_filter_layout.xml #generated:42
+# view res/layout/bnt_filter_layout.xml #generated:50
+# view res/layout/bnt_filter_layout.xml #generated:58
+# view res/layout/bnt_filter_layout.xml #generated:66
+# view res/layout/bnt_filter_layout.xml #generated:81
+# view res/layout/bnt_filter_layout.xml #generated:90
+# view res/layout/bnt_filter_layout.xml #generated:99
+-keep class vn.com.sonca.newUI.modal.view.tabview.TabFilter { <init>(...); }
+
+# view res/layout/ktv_main_activity_newui.xml #generated:211
+# view res/layout/ktv_main_activity_newui.xml #generated:218
+# view res/layout/ktv_main_activity_newui.xml #generated:225
+# view res/layout/ktv_main_activity_newui.xml #generated:232
+# view res/layout/ktv_main_activity_newui.xml #generated:239
+# view res/layout/ktv_main_activity_newui.xml #generated:246
+# view res/layout/ktv_main_activity_newui.xml #generated:253
+# view res/layout/ktv_main_activity_newui.xml #generated:260
+# view res/layout/ktv_main_activity_newui.xml #generated:268
+-keep class vn.com.sonca.newUI.modal.view.tabview.TabViewIcon { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class vn.com.sonca.samba.StreamService { <init>(...); }
+
+# view res/layout/fragment_selectlist.xml #generated:32
+# view res/layout/fragment_selectlist.xml #generated:40
+-keep class vn.com.sonca.selectlist.ItemSelectListView { <init>(...); }
+
+# view res/layout/fragment_selectlist.xml #generated:27
+-keep class vn.com.sonca.selectlist.TopSelectListView { <init>(...); }
+
+# view res/layout/dialog_sk90xx_hidden.xml #generated:281
+-keep class vn.com.sonca.sk90xxHidden.CheckAutoView { <init>(...); }
+
+# view res/layout/dialog_addsongdata_sk90xxhidden_del.xml #generated:7
+-keep class vn.com.sonca.sk90xxHidden.GlowViewHidden { <init>(...); }
+
+# view res/layout/dialog_sk90xx_hidden.xml #generated:307
+# view res/layout/dialog_sk90xx_hidden.xml #generated:313
+# view res/layout/dialog_sk90xx_hidden.xml #generated:320
+-keep class vn.com.sonca.sk90xxHidden.ViewAddBut { <init>(...); }
+
+# view res/layout/dialog_sk90xx_hidden.xml #generated:15
+-keep class vn.com.sonca.sk90xxHidden.ViewAddTop { <init>(...); }
+
+# view res/layout/dialog_addsongdata_sk90xxhidden_del.xml #generated:12
+-keep class vn.com.sonca.sk90xxHidden.ViewDelSong { <init>(...); }
+
+# view res/layout/dialog_sk90xx_hidden.xml #generated:38
+-keep class vn.com.sonca.sk90xxHidden.ViewSearchAdd { <init>(...); }
+
+# view res/layout/dialog_sk90xx_online.xml #generated:282
+-keep class vn.com.sonca.sk90xxOnline.CheckAutoView { <init>(...); }
+
+# view res/layout/dialog_addsongdata_sk90xx_del.xml #generated:7
+-keep class vn.com.sonca.sk90xxOnline.GlowViewOnline { <init>(...); }
+
+# view res/layout/dialog_sk90xx_online.xml #generated:306
+# view res/layout/dialog_sk90xx_online.xml #generated:312
+-keep class vn.com.sonca.sk90xxOnline.ViewAddBut { <init>(...); }
+
+# view res/layout/dialog_sk90xx_online.xml #generated:15
+-keep class vn.com.sonca.sk90xxOnline.ViewAddTop { <init>(...); }
+
+# view res/layout/dialog_addsongdata_sk90xx_del.xml #generated:12
+-keep class vn.com.sonca.sk90xxOnline.ViewDelSong { <init>(...); }
+
+# view res/layout/dialog_sk90xx_online.xml #generated:38
+-keep class vn.com.sonca.sk90xxOnline.ViewSearchAdd { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:110
+# view res/layout/ktv_fragment_playlist.xml #generated:145
+# view res/layout/ktv_fragment_playlist.xml #generated:180
+# view res/layout/ktv_fragment_playlist.xml #generated:215
+# view res/layout/ktv_fragment_playlist.xml #generated:250
+# view res/layout/ktv_fragment_playlist.xml #generated:74
+# view res/layout/ktv_fragment_song.xml #generated:114
+# view res/layout/ktv_fragment_song.xml #generated:145
+# view res/layout/ktv_fragment_song.xml #generated:176
+# view res/layout/ktv_fragment_song.xml #generated:207
+# view res/layout/ktv_fragment_song.xml #generated:238
+# view res/layout/ktv_fragment_song.xml #generated:82
+-keep class vn.com.sonca.zktv.FragData.ButCancelDownload { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:106
+# view res/layout/ktv_fragment_playlist.xml #generated:141
+# view res/layout/ktv_fragment_playlist.xml #generated:176
+# view res/layout/ktv_fragment_playlist.xml #generated:211
+# view res/layout/ktv_fragment_playlist.xml #generated:246
+# view res/layout/ktv_fragment_playlist.xml #generated:70
+# view res/layout/ktv_fragment_song.xml #generated:110
+# view res/layout/ktv_fragment_song.xml #generated:141
+# view res/layout/ktv_fragment_song.xml #generated:172
+# view res/layout/ktv_fragment_song.xml #generated:203
+# view res/layout/ktv_fragment_song.xml #generated:234
+# view res/layout/ktv_fragment_song.xml #generated:78
+-keep class vn.com.sonca.zktv.FragData.ButDownload { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:125
+# view res/layout/ktv_fragment_playlist.xml #generated:160
+# view res/layout/ktv_fragment_playlist.xml #generated:195
+# view res/layout/ktv_fragment_playlist.xml #generated:230
+# view res/layout/ktv_fragment_playlist.xml #generated:54
+# view res/layout/ktv_fragment_playlist.xml #generated:90
+# view res/layout/ktv_fragment_song.xml #generated:129
+# view res/layout/ktv_fragment_song.xml #generated:160
+# view res/layout/ktv_fragment_song.xml #generated:191
+# view res/layout/ktv_fragment_song.xml #generated:222
+# view res/layout/ktv_fragment_song.xml #generated:66
+# view res/layout/ktv_fragment_song.xml #generated:98
+-keep class vn.com.sonca.zktv.FragData.ButFirst { <init>(...); }
+
+# view res/layout/ktv_fragment_image.xml #generated:24
+# view res/layout/ktv_fragment_image.xml #generated:30
+# view res/layout/ktv_fragment_playlist.xml #generated:24
+# view res/layout/ktv_fragment_playlist.xml #generated:30
+# view res/layout/ktv_fragment_song.xml #generated:26
+# view res/layout/ktv_fragment_song.xml #generated:32
+-keep class vn.com.sonca.zktv.FragData.ButPage { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:102
+# view res/layout/ktv_fragment_playlist.xml #generated:137
+# view res/layout/ktv_fragment_playlist.xml #generated:172
+# view res/layout/ktv_fragment_playlist.xml #generated:207
+# view res/layout/ktv_fragment_playlist.xml #generated:242
+# view res/layout/ktv_fragment_playlist.xml #generated:66
+# view res/layout/ktv_fragment_song.xml #generated:106
+# view res/layout/ktv_fragment_song.xml #generated:137
+# view res/layout/ktv_fragment_song.xml #generated:168
+# view res/layout/ktv_fragment_song.xml #generated:199
+# view res/layout/ktv_fragment_song.xml #generated:230
+# view res/layout/ktv_fragment_song.xml #generated:74
+-keep class vn.com.sonca.zktv.FragData.ButPreview { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:129
+# view res/layout/ktv_fragment_playlist.xml #generated:164
+# view res/layout/ktv_fragment_playlist.xml #generated:199
+# view res/layout/ktv_fragment_playlist.xml #generated:234
+# view res/layout/ktv_fragment_playlist.xml #generated:58
+# view res/layout/ktv_fragment_playlist.xml #generated:94
+# view res/layout/ktv_fragment_song.xml #generated:102
+# view res/layout/ktv_fragment_song.xml #generated:133
+# view res/layout/ktv_fragment_song.xml #generated:164
+# view res/layout/ktv_fragment_song.xml #generated:195
+# view res/layout/ktv_fragment_song.xml #generated:226
+# view res/layout/ktv_fragment_song.xml #generated:70
+-keep class vn.com.sonca.zktv.FragData.ButSinger { <init>(...); }
+
+# view res/layout/ktv_fragment_song.xml #generated:119
+# view res/layout/ktv_fragment_song.xml #generated:150
+# view res/layout/ktv_fragment_song.xml #generated:181
+# view res/layout/ktv_fragment_song.xml #generated:212
+# view res/layout/ktv_fragment_song.xml #generated:56
+# view res/layout/ktv_fragment_song.xml #generated:88
+-keep class vn.com.sonca.zktv.FragData.MyGlowView { <init>(...); }
+
+# view res/layout/ktv_fragment_song.xml #generated:125
+# view res/layout/ktv_fragment_song.xml #generated:156
+# view res/layout/ktv_fragment_song.xml #generated:187
+# view res/layout/ktv_fragment_song.xml #generated:218
+# view res/layout/ktv_fragment_song.xml #generated:62
+# view res/layout/ktv_fragment_song.xml #generated:94
+-keep class vn.com.sonca.zktv.FragData.MySongView { <init>(...); }
+
+# view res/layout/ktv_fragment_image.xml #generated:12
+# view res/layout/ktv_fragment_image.xml #generated:18
+# view res/layout/ktv_fragment_playlist.xml #generated:12
+# view res/layout/ktv_fragment_playlist.xml #generated:18
+# view res/layout/ktv_fragment_song.xml #generated:12
+# view res/layout/ktv_fragment_song.xml #generated:19
+-keep class vn.com.sonca.zktv.FragData.MyTextView { <init>(...); }
+
+# view res/layout/ktv_fragment_image.xml #generated:37
+-keep class vn.com.sonca.zktv.FragImage.MyGroupImage { <init>(...); }
+
+# view res/layout/ktv_fragment_image.xml #generated:43
+# view res/layout/ktv_fragment_image.xml #generated:48
+# view res/layout/ktv_fragment_image.xml #generated:53
+# view res/layout/ktv_fragment_image.xml #generated:58
+# view res/layout/ktv_fragment_image.xml #generated:63
+# view res/layout/ktv_fragment_image.xml #generated:68
+# view res/layout/ktv_fragment_image.xml #generated:73
+# view res/layout/ktv_fragment_image.xml #generated:78
+-keep class vn.com.sonca.zktv.FragImage.MyImageView { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:133
+# view res/layout/ktv_fragment_playlist.xml #generated:168
+# view res/layout/ktv_fragment_playlist.xml #generated:203
+# view res/layout/ktv_fragment_playlist.xml #generated:238
+# view res/layout/ktv_fragment_playlist.xml #generated:62
+# view res/layout/ktv_fragment_playlist.xml #generated:98
+-keep class vn.com.sonca.zktv.FragPlaylist.ButDelete { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:115
+# view res/layout/ktv_fragment_playlist.xml #generated:150
+# view res/layout/ktv_fragment_playlist.xml #generated:185
+# view res/layout/ktv_fragment_playlist.xml #generated:220
+# view res/layout/ktv_fragment_playlist.xml #generated:44
+# view res/layout/ktv_fragment_playlist.xml #generated:80
+-keep class vn.com.sonca.zktv.FragPlaylist.MyGlowPlayList { <init>(...); }
+
+# view res/layout/ktv_fragment_playlist.xml #generated:121
+# view res/layout/ktv_fragment_playlist.xml #generated:156
+# view res/layout/ktv_fragment_playlist.xml #generated:191
+# view res/layout/ktv_fragment_playlist.xml #generated:226
+# view res/layout/ktv_fragment_playlist.xml #generated:50
+# view res/layout/ktv_fragment_playlist.xml #generated:86
+-keep class vn.com.sonca.zktv.FragPlaylist.MyPlaylistView { <init>(...); }
+
+# view res/layout/ktv_mainactivity.xml #generated:227
+-keep class vn.com.sonca.zktv.FragPlaylist.NumberPlaylist { <init>(...); }
+
+# view res/layout/ktv_fragment_switch.xml #generated:17
+# view res/layout/ktv_fragment_switch.xml #generated:23
+# view res/layout/ktv_fragment_switch.xml #generated:29
+# view res/layout/ktv_fragment_switch.xml #generated:44
+# view res/layout/ktv_fragment_switch.xml #generated:50
+# view res/layout/ktv_fragment_switch.xml #generated:56
+# view res/layout/ktv_fragment_switch.xml #generated:71
+# view res/layout/ktv_fragment_switch.xml #generated:77
+# view res/layout/ktv_fragment_switch.xml #generated:83
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:17
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:23
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:29
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:44
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:50
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:56
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:71
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:77
+# view res/layout/ktv_fragment_theloai_menu.xml #generated:83
+-keep class vn.com.sonca.zktv.FragSwitch.ViewSwitch { <init>(...); }
+
+# view res/layout/ktv_fragment_keyboard.xml #generated:23
+-keep class vn.com.sonca.zktv.Keyboard.CharKeyBoardGroup { <init>(...); }
+
+# view res/layout/ktv_fragment_keyboard.xml #generated:102
+# view res/layout/ktv_fragment_keyboard.xml #generated:106
+# view res/layout/ktv_fragment_keyboard.xml #generated:110
+# view res/layout/ktv_fragment_keyboard.xml #generated:114
+# view res/layout/ktv_fragment_keyboard.xml #generated:118
+# view res/layout/ktv_fragment_keyboard.xml #generated:122
+# view res/layout/ktv_fragment_keyboard.xml #generated:126
+# view res/layout/ktv_fragment_keyboard.xml #generated:130
+# view res/layout/ktv_fragment_keyboard.xml #generated:134
+# view res/layout/ktv_fragment_keyboard.xml #generated:30
+# view res/layout/ktv_fragment_keyboard.xml #generated:34
+# view res/layout/ktv_fragment_keyboard.xml #generated:38
+# view res/layout/ktv_fragment_keyboard.xml #generated:42
+# view res/layout/ktv_fragment_keyboard.xml #generated:46
+# view res/layout/ktv_fragment_keyboard.xml #generated:50
+# view res/layout/ktv_fragment_keyboard.xml #generated:54
+# view res/layout/ktv_fragment_keyboard.xml #generated:58
+# view res/layout/ktv_fragment_keyboard.xml #generated:62
+# view res/layout/ktv_fragment_keyboard.xml #generated:66
+# view res/layout/ktv_fragment_keyboard.xml #generated:70
+# view res/layout/ktv_fragment_keyboard.xml #generated:74
+# view res/layout/ktv_fragment_keyboard.xml #generated:78
+# view res/layout/ktv_fragment_keyboard.xml #generated:82
+# view res/layout/ktv_fragment_keyboard.xml #generated:86
+# view res/layout/ktv_fragment_keyboard.xml #generated:90
+# view res/layout/ktv_fragment_keyboard.xml #generated:94
+# view res/layout/ktv_fragment_keyboard.xml #generated:98
+-keep class vn.com.sonca.zktv.Keyboard.CharKeyView { <init>(...); }
+
+# view res/layout/ktv_fragment_keyboard.xml #generated:138
+-keep class vn.com.sonca.zktv.Keyboard.ClearKeyView { <init>(...); }
+
+# view res/layout/ktv_fragment_keyboard.xml #generated:7
+-keep class vn.com.sonca.zktv.Keyboard.MyEditText { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class vn.com.sonca.zktv.main.KTVMainActivity { <init>(...); }
+
+# view res/layout/ktv_dialog_caocap.xml #generated:103
+# view res/layout/ktv_dialog_caocap.xml #generated:109
+# view res/layout/ktv_dialog_caocap.xml #generated:115
+# view res/layout/ktv_dialog_caocap.xml #generated:121
+# view res/layout/ktv_dialog_caocap.xml #generated:127
+# view res/layout/ktv_dialog_caocap.xml #generated:133
+# view res/layout/ktv_dialog_caocap.xml #generated:139
+# view res/layout/ktv_dialog_caocap.xml #generated:159
+# view res/layout/ktv_dialog_caocap.xml #generated:165
+# view res/layout/ktv_dialog_caocap.xml #generated:171
+# view res/layout/ktv_dialog_caocap.xml #generated:177
+# view res/layout/ktv_dialog_caocap.xml #generated:183
+# view res/layout/ktv_dialog_caocap.xml #generated:189
+# view res/layout/ktv_dialog_caocap.xml #generated:195
+-keep class vn.com.sonca.zktv.main.ViewCaoCap { <init>(...); }
+
+# view res/layout/ktv_mainactivity.xml #generated:38
+-keep class vn.com.sonca.zktv.main.ViewDevice { <init>(...); }
+
+# view res/layout/ktv_mainactivity.xml #generated:27
+-keep class vn.com.sonca.zktv.main.ViewHome { <init>(...); }
+
+# view res/layout/ktv_mainactivity.xml #generated:150
+# view res/layout/ktv_mainactivity.xml #generated:156
+# view res/layout/ktv_mainactivity.xml #generated:162
+# view res/layout/ktv_mainactivity.xml #generated:168
+# view res/layout/ktv_mainactivity.xml #generated:174
+# view res/layout/ktv_mainactivity.xml #generated:180
+# view res/layout/ktv_mainactivity.xml #generated:186
+# view res/layout/ktv_mainactivity.xml #generated:192
+# view res/layout/ktv_mainactivity.xml #generated:198
+-keep class vn.com.sonca.zktv.main.ViewMain { <init>(...); }
+
+# view res/layout/ktv_mainactivity.xml #generated:32
+-keep class vn.com.sonca.zktv.main.ViewStatus { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class vn.com.sonca.zzzzz.MyApplication { <init>(...); }
+
